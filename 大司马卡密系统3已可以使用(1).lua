@@ -96,7 +96,7 @@ Button.MouseButton1Click:Connect(function()
        ["X8h6hk88"] = {user = "123456VBNM75", expire = "2030-12-31"}, 
        ["dasima886"] = {user = "zybnb1", expire = "2030-12-31"},
        ["raqikdd42"] = {user = "raqikdd42", expire = "2030-12-31"},
-       ["raq45dd42"] = {user = "用户名", expire = "2030-12-31"},
+       ["raafewda6"] = {user = "chen200305", expire = "2030-12-31"},
        ["ghaqldd92"] = {user = "用户名", expire = "2030-12-31"},
        ["lkhvstii513"] = {user = "用户名", expire = "2030-12-31"},
        ["yijudahur91"] = {user = "用户名", expire = "2030-12-31"},
