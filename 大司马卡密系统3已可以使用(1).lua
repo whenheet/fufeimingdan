@@ -146,6 +146,7 @@ Button.MouseButton1Click:Connect(function()
        ["hjddh14lk"] = {user = "strawberry5ay", expire = "2030-12-31"},
        ["skefwmx41l"] = {user = "GTHHGSH", expire = "2030-12-31"},
        ["ihdjk45kl"] = {user = "cheems070828", expire = "2030-12-24"},
+       ["王皓9178"] = {user = "yutidhdivd", expire = "2030-12-24"},
        ["h5Z6D4D2"] = {user = "12345678xto", expire = "2030-12-31"}
         -- 可复制上面的格式，添加更多卡密
     }
