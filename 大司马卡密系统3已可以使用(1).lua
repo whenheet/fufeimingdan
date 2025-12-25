@@ -119,7 +119,7 @@ Button.MouseButton1Click:Connect(function()
        ["hddtjhc4h3g"] = {user = "Mike52013414", expire = "2030-12-31"},
        ["wikwj4hr57"] = {user = "CHONGKAIBALAODI", expire = "2030-12-31"},
        ["shenchouwkq45"] = {user = "sie8hxow", expire = "2030-12-31"},
-       ["xiaoguangsz"] = {user = "wzhxIl", expire = "2030-12-31"},
+       ["xiaoguangsz"] = {user = "大司马", expire = "2030-12-31"},
        ["wkab46wu57"] = {user = "wprobertsky843", expire = "2030-12-31"},
        ["bcf54ey46n"] = {user = "sjsks886", expire = "2030-12-31"},
        ["hdbw74wj64"] = {user = "liwenfeng789", expire = "2030-12-31"},
